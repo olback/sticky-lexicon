@@ -1,0 +1,9 @@
+[package]
+name = "clippy"
+version = "0.1.0"
+authors = ["Edwin <git@olback.net>"]
+
+[dependencies]
+clipboard-win = "2.1.2"
+serde_json = "1.0.17"
+curl = "0.2.19"
